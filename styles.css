@@ -4,6 +4,7 @@ body{
   text-align: center;
   font-family: Merriweather;
   font-size: 200%;
+  background-color: #E4F9F5;
 
 }
 h1{
@@ -29,7 +30,7 @@ p{
 
 
 .Top-container{
-background-color: #E4F9F5;
+
   position: relative;
 padding:100px 100px 0 100px;
 line-height: 2rem;
